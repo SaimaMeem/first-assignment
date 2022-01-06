@@ -100,3 +100,32 @@ body {
 
 
 /* second section */
+
+
+/* third section */
+
+.sections.banner {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: left 50px center;
+}
+
+.sections.banner.third {
+    background-position: left 50px center;
+}
+
+.sections.banner.fourth {
+    background-position: right 50px bottom;
+}
+
+
+/* third section */
+
+.third-horizontal-sections #second-image {
+    width: 60%;
+}
+
+.content {
+    width: 80%;
+}
