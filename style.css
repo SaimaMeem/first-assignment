@@ -122,10 +122,26 @@ body {
 
 /* third section */
 
-.third-horizontal-sections #second-image {
+.third-horizontal-sections #second-image,
+.fourth-horizontal-sections #third-image {
     width: 60%;
 }
 
 .content {
     width: 80%;
 }
+
+
+/* fourth section */
+
+#third-image {
+    float: right;
+}
+
+.header-h2 {
+    font-size: 36px;
+    font-weight: 900 !important;
+}
+
+
+/* fourth section */
