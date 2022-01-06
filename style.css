@@ -145,3 +145,33 @@ body {
 
 
 /* fourth section */
+
+
+/* footer */
+
+footer {
+    height: 150px;
+    width: 100%;
+    background-color: #0B0D17;
+}
+
+footer {
+    color: rgba(217, 219, 225, 1);
+    ;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer-h1 {
+    color: white;
+    padding-top: 20px;
+    font-family: 'Lobster', cursive;
+    ;
+}
+
+.footer-span {
+    color: rgba(255, 89, 89, 1);
+}
+
+
+/* footer */
