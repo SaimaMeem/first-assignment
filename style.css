@@ -18,6 +18,10 @@ body {
     padding: 12px 30px;
 }
 
+.for-margin {
+    margin: 30px 0;
+}
+
 
 /* first section */
 
@@ -50,3 +54,49 @@ body {
 
 
 /* first section */
+
+
+/* second section */
+
+.three-divs {
+    align-items: center;
+    justify-content: space-between;
+}
+
+#mission-h1 {
+    color: #13103A;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.second-horizontal-sections {
+    width: 300px;
+    height: 400px;
+    border-radius: 26px;
+    padding: 20px 40px;
+    /* margin-right: 30px; */
+}
+
+.second-horizontal-sections.first {
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+.second-horizontal-sections.second {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.second-horizontal-sections.third {
+    background-color: rgba(255, 244, 214, 1);
+}
+
+.icons {
+    width: 35%;
+}
+
+.icons.nodejs {
+    width: 30%;
+}
+
+
+/* second section */
